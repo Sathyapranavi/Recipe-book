@@ -1,0 +1,6 @@
+{
+  "name": "My Recipe Book",
+  "description": "A modern, multilingual recipe book application to discover recipes, search by name or ingredients, and follow step-by-step cooking instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
